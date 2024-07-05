@@ -1,0 +1,1157 @@
+[
+    {
+        "model": "google/gemma-2-9b-it",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.1,
+        "output": 0.1
+    },
+    {
+        "model": "google/gemma-2-9b-it:free",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.0,
+        "output": 0.0
+    },
+    {
+        "model": "sao10k/l3-stheno-8b",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.125,
+        "output": 0.75
+    },
+    {
+        "model": "01-ai/yi-large",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 1.5,
+        "output": 1.5
+    },
+    {
+        "model": "ai21/jamba-instruct",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.25,
+        "output": 0.35
+    },
+    {
+        "model": "nvidia/nemotron-4-340b-instruct",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 2.1,
+        "output": 2.1
+    },
+    {
+        "model": "anthropic/claude-3.5-sonnet",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 1.5,
+        "output": 7.5
+    },
+    {
+        "model": "anthropic/claude-3.5-sonnet:beta",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 1.5,
+        "output": 7.5
+    },
+    {
+        "model": "sao10k/l3-euryale-70b",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.74,
+        "output": 0.74
+    },
+    {
+        "model": "microsoft/phi-3-medium-4k-instruct",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.07,
+        "output": 0.07
+    },
+    {
+        "model": "cognitivecomputations/dolphin-mixtral-8x22b",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.45,
+        "output": 0.45
+    },
+    {
+        "model": "qwen/qwen-2-72b-instruct",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.28,
+        "output": 0.385
+    },
+    {
+        "model": "openchat/openchat-8b",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.032,
+        "output": 0.032
+    },
+    {
+        "model": "mistralai/mistral-7b-instruct",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.0325,
+        "output": 0.0325
+    },
+    {
+        "model": "mistralai/mistral-7b-instruct-v0.3",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.0325,
+        "output": 0.0325
+    },
+    {
+        "model": "nousresearch/hermes-2-pro-llama-3-8b",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.07,
+        "output": 0.07
+    },
+    {
+        "model": "microsoft/phi-3-mini-128k-instruct",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.05,
+        "output": 0.05
+    },
+    {
+        "model": "microsoft/phi-3-mini-128k-instruct:free",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.0,
+        "output": 0.0
+    },
+    {
+        "model": "microsoft/phi-3-medium-128k-instruct",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.5,
+        "output": 0.5
+    },
+    {
+        "model": "microsoft/phi-3-medium-128k-instruct:free",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.0,
+        "output": 0.0
+    },
+    {
+        "model": "neversleep/llama-3-lumimaid-70b",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 1.6875,
+        "output": 2.25
+    },
+    {
+        "model": "google/gemini-flash-1.5",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.125,
+        "output": 0.375
+    },
+    {
+        "model": "perplexity/llama-3-sonar-small-32k-chat",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.1,
+        "output": 0.1
+    },
+    {
+        "model": "perplexity/llama-3-sonar-small-32k-online",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.1,
+        "output": 0.1
+    },
+    {
+        "model": "perplexity/llama-3-sonar-large-32k-chat",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.5,
+        "output": 0.5
+    },
+    {
+        "model": "perplexity/llama-3-sonar-large-32k-online",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.5,
+        "output": 0.5
+    },
+    {
+        "model": "deepseek/deepseek-chat",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.07,
+        "output": 0.14
+    },
+    {
+        "model": "deepseek/deepseek-coder",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.07,
+        "output": 0.14
+    },
+    {
+        "model": "openai/gpt-4o",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 2.5,
+        "output": 7.5
+    },
+    {
+        "model": "openai/gpt-4o-2024-05-13",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 2.5,
+        "output": 7.5
+    },
+    {
+        "model": "meta-llama/llama-3-8b",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.09,
+        "output": 0.09
+    },
+    {
+        "model": "meta-llama/llama-3-70b",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.405,
+        "output": 0.405
+    },
+    {
+        "model": "meta-llama/llama-guard-2-8b",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.075,
+        "output": 0.075
+    },
+    {
+        "model": "liuhaotian/llava-yi-34b",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.45,
+        "output": 0.45
+    },
+    {
+        "model": "allenai/olmo-7b-instruct",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.09,
+        "output": 0.09
+    },
+    {
+        "model": "qwen/qwen-110b-chat",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.81,
+        "output": 0.81
+    },
+    {
+        "model": "qwen/qwen-72b-chat",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.405,
+        "output": 0.405
+    },
+    {
+        "model": "qwen/qwen-32b-chat",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.36,
+        "output": 0.36
+    },
+    {
+        "model": "qwen/qwen-14b-chat",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.135,
+        "output": 0.135
+    },
+    {
+        "model": "qwen/qwen-7b-chat",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.09,
+        "output": 0.09
+    },
+    {
+        "model": "qwen/qwen-4b-chat",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.045,
+        "output": 0.045
+    },
+    {
+        "model": "meta-llama/llama-3-8b-instruct:free",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.0,
+        "output": 0.0
+    },
+    {
+        "model": "neversleep/llama-3-lumimaid-8b",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.09375,
+        "output": 0.5625
+    },
+    {
+        "model": "neversleep/llama-3-lumimaid-8b:extended",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.09375,
+        "output": 0.5625
+    },
+    {
+        "model": "snowflake/snowflake-arctic-instruct",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 1.08,
+        "output": 1.08
+    },
+    {
+        "model": "fireworks/firellava-13b",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.1,
+        "output": 0.1
+    },
+    {
+        "model": "lynn/soliloquy-l3",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.025,
+        "output": 0.025
+    },
+    {
+        "model": "sao10k/fimbulvetr-11b-v2",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.1875,
+        "output": 0.75
+    },
+    {
+        "model": "meta-llama/llama-3-8b-instruct:extended",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.09375,
+        "output": 0.5625
+    },
+    {
+        "model": "meta-llama/llama-3-8b-instruct:nitro",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.09,
+        "output": 0.09
+    },
+    {
+        "model": "meta-llama/llama-3-70b-instruct:nitro",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.45,
+        "output": 0.45
+    },
+    {
+        "model": "meta-llama/llama-3-8b-instruct",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.0315,
+        "output": 0.0315
+    },
+    {
+        "model": "meta-llama/llama-3-70b-instruct",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.275,
+        "output": 0.38
+    },
+    {
+        "model": "mistralai/mixtral-8x22b-instruct",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.325,
+        "output": 0.325
+    },
+    {
+        "model": "microsoft/wizardlm-2-8x22b",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.32,
+        "output": 0.32
+    },
+    {
+        "model": "microsoft/wizardlm-2-7b",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.035,
+        "output": 0.035
+    },
+    {
+        "model": "undi95/toppy-m-7b:nitro",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.035,
+        "output": 0.035
+    },
+    {
+        "model": "mistralai/mixtral-8x22b",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.54,
+        "output": 0.54
+    },
+    {
+        "model": "openai/gpt-4-turbo",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 5.0,
+        "output": 15.0
+    },
+    {
+        "model": "google/gemini-pro-1.5",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 1.25,
+        "output": 3.75
+    },
+    {
+        "model": "cohere/command-r-plus",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 1.5,
+        "output": 7.5
+    },
+    {
+        "model": "databricks/dbrx-instruct",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.54,
+        "output": 0.54
+    },
+    {
+        "model": "sophosympatheia/midnight-rose-70b",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.4,
+        "output": 0.4
+    },
+    {
+        "model": "cohere/command",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.5,
+        "output": 1.0
+    },
+    {
+        "model": "cohere/command-r",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.25,
+        "output": 0.75
+    },
+    {
+        "model": "anthropic/claude-3-haiku",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.125,
+        "output": 0.625
+    },
+    {
+        "model": "anthropic/claude-3-haiku:beta",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.125,
+        "output": 0.625
+    },
+    {
+        "model": "google/gemma-7b-it:nitro",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.035,
+        "output": 0.035
+    },
+    {
+        "model": "mistralai/mixtral-8x7b-instruct:nitro",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.27,
+        "output": 0.27
+    },
+    {
+        "model": "mistralai/mistral-7b-instruct:nitro",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.035,
+        "output": 0.035
+    },
+    {
+        "model": "meta-llama/llama-2-70b-chat:nitro",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.45,
+        "output": 0.45
+    },
+    {
+        "model": "gryphe/mythomax-l2-13b:nitro",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.1,
+        "output": 0.1
+    },
+    {
+        "model": "anthropic/claude-3-opus",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 7.5,
+        "output": 37.5
+    },
+    {
+        "model": "anthropic/claude-3-sonnet",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 1.5,
+        "output": 7.5
+    },
+    {
+        "model": "anthropic/claude-3-opus:beta",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 7.5,
+        "output": 37.5
+    },
+    {
+        "model": "anthropic/claude-3-sonnet:beta",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 1.5,
+        "output": 7.5
+    },
+    {
+        "model": "mistralai/mistral-large",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 4.0,
+        "output": 12.0
+    },
+    {
+        "model": "google/gemma-7b-it",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.035,
+        "output": 0.035
+    },
+    {
+        "model": "google/gemma-7b-it:free",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.0,
+        "output": 0.0
+    },
+    {
+        "model": "nousresearch/nous-hermes-2-mistral-7b-dpo",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.09,
+        "output": 0.09
+    },
+    {
+        "model": "meta-llama/codellama-70b-instruct",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.405,
+        "output": 0.405
+    },
+    {
+        "model": "recursal/eagle-7b",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.0,
+        "output": 0.0
+    },
+    {
+        "model": "openai/gpt-3.5-turbo-0613",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.5,
+        "output": 1.0
+    },
+    {
+        "model": "openai/gpt-4-turbo-preview",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 5.0,
+        "output": 15.0
+    },
+    {
+        "model": "undi95/remm-slerp-l2-13b:extended",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.5625,
+        "output": 0.5625
+    },
+    {
+        "model": "nousresearch/nous-hermes-2-mixtral-8x7b-dpo",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.135,
+        "output": 0.135
+    },
+    {
+        "model": "nousresearch/nous-hermes-2-mixtral-8x7b-sft",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.27,
+        "output": 0.27
+    },
+    {
+        "model": "mistralai/mistral-tiny",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.125,
+        "output": 0.125
+    },
+    {
+        "model": "mistralai/mistral-small",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 1.0,
+        "output": 3.0
+    },
+    {
+        "model": "mistralai/mistral-medium",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 1.35,
+        "output": 4.05
+    },
+    {
+        "model": "austism/chronos-hermes-13b",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.065,
+        "output": 0.065
+    },
+    {
+        "model": "neversleep/noromaid-mixtral-8x7b-instruct",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 4.0,
+        "output": 4.0
+    },
+    {
+        "model": "nousresearch/nous-hermes-yi-34b",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.36,
+        "output": 0.36
+    },
+    {
+        "model": "mistralai/mistral-7b-instruct-v0.2",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.035,
+        "output": 0.035
+    },
+    {
+        "model": "cognitivecomputations/dolphin-mixtral-8x7b",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.12,
+        "output": 0.12
+    },
+    {
+        "model": "google/gemini-pro",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.0625,
+        "output": 0.1875
+    },
+    {
+        "model": "google/gemini-pro-vision",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.0625,
+        "output": 0.1875
+    },
+    {
+        "model": "mistralai/mixtral-8x7b",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.25,
+        "output": 0.25
+    },
+    {
+        "model": "mistralai/mixtral-8x7b-instruct",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.12,
+        "output": 0.12
+    },
+    {
+        "model": "rwkv/rwkv-5-world-3b",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.0,
+        "output": 0.0
+    },
+    {
+        "model": "recursal/rwkv-5-3b-ai-town",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.0,
+        "output": 0.0
+    },
+    {
+        "model": "togethercomputer/stripedhyena-nous-7b",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.09,
+        "output": 0.09
+    },
+    {
+        "model": "togethercomputer/stripedhyena-hessian-7b",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.09,
+        "output": 0.09
+    },
+    {
+        "model": "koboldai/psyfighter-13b-2",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.5,
+        "output": 0.5
+    },
+    {
+        "model": "01-ai/yi-34b-chat",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.36,
+        "output": 0.36
+    },
+    {
+        "model": "01-ai/yi-34b",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.36,
+        "output": 0.36
+    },
+    {
+        "model": "01-ai/yi-6b",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.09,
+        "output": 0.09
+    },
+    {
+        "model": "gryphe/mythomist-7b",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.1875,
+        "output": 0.1875
+    },
+    {
+        "model": "nousresearch/nous-capybara-7b",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.09,
+        "output": 0.09
+    },
+    {
+        "model": "nousresearch/nous-capybara-7b:free",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.0,
+        "output": 0.0
+    },
+    {
+        "model": "openchat/openchat-7b",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.035,
+        "output": 0.035
+    },
+    {
+        "model": "openchat/openchat-7b:free",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.0,
+        "output": 0.0
+    },
+    {
+        "model": "neversleep/noromaid-20b",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.75,
+        "output": 1.125
+    },
+    {
+        "model": "gryphe/mythomist-7b:free",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.0,
+        "output": 0.0
+    },
+    {
+        "model": "intel/neural-chat-7b",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 2.5,
+        "output": 2.5
+    },
+    {
+        "model": "anthropic/claude-2",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 4.0,
+        "output": 12.0
+    },
+    {
+        "model": "anthropic/claude-2.1",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 4.0,
+        "output": 12.0
+    },
+    {
+        "model": "anthropic/claude-instant-1.1",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.4,
+        "output": 1.2
+    },
+    {
+        "model": "anthropic/claude-2:beta",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 4.0,
+        "output": 12.0
+    },
+    {
+        "model": "anthropic/claude-2.1:beta",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 4.0,
+        "output": 12.0
+    },
+    {
+        "model": "teknium/openhermes-2.5-mistral-7b",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.085,
+        "output": 0.085
+    },
+    {
+        "model": "nousresearch/nous-capybara-34b",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.45,
+        "output": 0.45
+    },
+    {
+        "model": "openai/gpt-4-vision-preview",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 5.0,
+        "output": 15.0
+    },
+    {
+        "model": "lizpreciatior/lzlv-70b-fp16-hf",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.29,
+        "output": 0.39
+    },
+    {
+        "model": "undi95/toppy-m-7b",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.035,
+        "output": 0.035
+    },
+    {
+        "model": "alpindale/goliath-120b",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 4.6875,
+        "output": 4.6875
+    },
+    {
+        "model": "undi95/toppy-m-7b:free",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.0,
+        "output": 0.0
+    },
+    {
+        "model": "openai/gpt-3.5-turbo-1106",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.5,
+        "output": 1.0
+    },
+    {
+        "model": "openai/gpt-4-1106-preview",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 5.0,
+        "output": 15.0
+    },
+    {
+        "model": "huggingfaceh4/zephyr-7b-beta:free",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.0,
+        "output": 0.0
+    },
+    {
+        "model": "google/palm-2-chat-bison-32k",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.125,
+        "output": 0.25
+    },
+    {
+        "model": "google/palm-2-codechat-bison-32k",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.125,
+        "output": 0.25
+    },
+    {
+        "model": "teknium/openhermes-2-mistral-7b",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.09,
+        "output": 0.09
+    },
+    {
+        "model": "open-orca/mistral-7b-openorca",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.09,
+        "output": 0.09
+    },
+    {
+        "model": "gryphe/mythomax-l2-13b:extended",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.5625,
+        "output": 0.5625
+    },
+    {
+        "model": "xwin-lm/xwin-lm-70b",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 1.875,
+        "output": 1.875
+    },
+    {
+        "model": "openai/gpt-3.5-turbo-instruct",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.75,
+        "output": 1.0
+    },
+    {
+        "model": "mistralai/mistral-7b-instruct-v0.1",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.032,
+        "output": 0.032
+    },
+    {
+        "model": "mistralai/mistral-7b-instruct:free",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.0,
+        "output": 0.0
+    },
+    {
+        "model": "pygmalionai/mythalion-13b",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.5625,
+        "output": 0.5625
+    },
+    {
+        "model": "openai/gpt-3.5-turbo-16k",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 1.5,
+        "output": 2.0
+    },
+    {
+        "model": "openai/gpt-4-32k",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 30.0,
+        "output": 60.0
+    },
+    {
+        "model": "openai/gpt-4-32k-0314",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 30.0,
+        "output": 60.0
+    },
+    {
+        "model": "meta-llama/codellama-34b-instruct",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.36,
+        "output": 0.36
+    },
+    {
+        "model": "phind/phind-codellama-34b",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.36,
+        "output": 0.36
+    },
+    {
+        "model": "nousresearch/nous-hermes-llama2-13b",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.085,
+        "output": 0.085
+    },
+    {
+        "model": "mancer/weaver",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.9375,
+        "output": 1.125
+    },
+    {
+        "model": "anthropic/claude-2.0",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 4.0,
+        "output": 12.0
+    },
+    {
+        "model": "anthropic/claude-instant-1",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.4,
+        "output": 1.2
+    },
+    {
+        "model": "anthropic/claude-1",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 4.0,
+        "output": 12.0
+    },
+    {
+        "model": "anthropic/claude-1.2",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 4.0,
+        "output": 12.0
+    },
+    {
+        "model": "anthropic/claude-instant-1.0",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.4,
+        "output": 1.2
+    },
+    {
+        "model": "anthropic/claude-2.0:beta",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 4.0,
+        "output": 12.0
+    },
+    {
+        "model": "anthropic/claude-instant-1:beta",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.4,
+        "output": 1.2
+    },
+    {
+        "model": "undi95/remm-slerp-l2-13b",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.135,
+        "output": 0.135
+    },
+    {
+        "model": "google/palm-2-chat-bison",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.125,
+        "output": 0.25
+    },
+    {
+        "model": "google/palm-2-codechat-bison",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.125,
+        "output": 0.25
+    },
+    {
+        "model": "gryphe/mythomax-l2-13b",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.0595,
+        "output": 0.0595
+    },
+    {
+        "model": "meta-llama/llama-2-13b-chat",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.11875,
+        "output": 0.11875
+    },
+    {
+        "model": "meta-llama/llama-2-70b-chat",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.405,
+        "output": 0.405
+    },
+    {
+        "model": "openai/gpt-3.5-turbo",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.25,
+        "output": 0.75
+    },
+    {
+        "model": "openai/gpt-3.5-turbo-0125",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.25,
+        "output": 0.75
+    },
+    {
+        "model": "openai/gpt-3.5-turbo-0301",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 0.5,
+        "output": 1.0
+    },
+    {
+        "model": "openai/gpt-4",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 15.0,
+        "output": 30.0
+    },
+    {
+        "model": "openai/gpt-4-0314",
+        "type": "tokens",
+        "channel_type": 2,
+        "input": 15.0,
+        "output": 30.0
+    }
+]
